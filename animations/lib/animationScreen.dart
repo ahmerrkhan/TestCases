@@ -22,7 +22,7 @@ class _animationScreenState extends State<animationScreen> {
       ),
       body: Center(
         child: AnimatedOpacity(
-          duration: Duration(seconds: 1),
+          duration: Duration(seconds: 3),
          child: Container(
               height: _height,
               width: _width,
