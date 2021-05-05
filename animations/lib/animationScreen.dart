@@ -17,7 +17,7 @@ class _animationScreenState extends State<animationScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Here !'),
+        title: Text('Here Using!'),
          centerTitle: true,
       ),
       body: Center(
