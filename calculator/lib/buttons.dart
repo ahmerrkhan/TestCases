@@ -120,5 +120,3 @@ class _buttonsState extends State<buttons> {
   }
 }
 
-//this is the custom button
-
