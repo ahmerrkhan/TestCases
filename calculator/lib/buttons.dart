@@ -57,7 +57,7 @@ class _buttonsState extends State<buttons> {
         padding: EdgeInsets.all(25.0),
         child: Text(
           '$btnval',
-          style: TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 26.0, fontWeight: FontWeight.bold),
         ),
         onPressed: () => buttonclicked(btnval),
       ),
