@@ -28,7 +28,7 @@ class _animationScreenState extends State<animationScreen> {
               width: _width,
               decoration: BoxDecoration(
                 color: _color,
-                borderRadius: BorderRadius.circular(15.0),
+                borderRadius: BorderRadius.circular(14.0),
               ),
       ),
          opacity: _opacity,
