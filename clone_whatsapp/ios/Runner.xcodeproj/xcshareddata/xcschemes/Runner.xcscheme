@@ -9,7 +9,7 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "No"
+            buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
