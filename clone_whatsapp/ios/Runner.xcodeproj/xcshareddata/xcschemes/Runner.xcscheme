@@ -8,7 +8,7 @@
       <BuildActionEntries>
          <BuildActionEntry
             buildForTesting = "YES"
-            buildForRunning = "No"
+            buildForRunning = "YES"
             buildForProfiling = "No"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
