@@ -14,7 +14,7 @@ class _landingPageState extends State<landingPage> {
       ),
       body: GridView.count(
         padding: EdgeInsets.all(10.0),
-        crossAxisCount: 10,
+        crossAxisCount: 2,
         mainAxisSpacing: 0.0,
         crossAxisSpacing: 0.0,
         children: [
