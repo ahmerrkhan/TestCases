@@ -8,7 +8,7 @@ class buttons extends StatefulWidget {
 
 class _buttonsState extends State<buttons> {
 
-  int firstNum;
+  int firstNum=10
   int secondNum;
   String textToDisplay = "";
   String res ;
