@@ -22,7 +22,7 @@ class _buttonsState extends State<buttons> {
       secondNum = 0;
       res = "";
     }
-    else if(btntext =="-" || btntext == "-" || btntext == "x" || btntext == "/"){
+    else if(btntext =="+" || btntext == "-" || btntext == "x" || btntext == "/"){
       firstNum = int.parse(textToDisplay);
       res = "";
       operator = btntext;
