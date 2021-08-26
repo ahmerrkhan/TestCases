@@ -57,7 +57,7 @@ class _buttonsState extends State<buttons> {
         padding: EdgeInsets.all(25.0),
         child: Text(
           '$btnval',
-          style: TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 26.0, fontWeight: FontWeight.bold),
         ),
         onPressed: () => buttonclicked(btnval),
       ),
@@ -74,7 +74,7 @@ class _buttonsState extends State<buttons> {
         children: [
           Expanded(
               child: Container(
-                padding: EdgeInsets.only(bottom: 10.0,right: 10.0),
+                padding: EdgeInsets.only(bottom: 12.0,right: 10.0),
                 alignment: Alignment.bottomRight,
                 child: Text(
                   '$textToDisplay',
@@ -119,6 +119,4 @@ class _buttonsState extends State<buttons> {
 
   }
 }
-
-//this is the custom button
 

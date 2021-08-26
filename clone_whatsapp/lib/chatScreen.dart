@@ -43,7 +43,7 @@ List <chatModel> dummyData1 = [
   ),
   new chatModel(
       name: "Hasan Shah",
-      message: "Whats time is it now?",
+      message: "Whats time please tell me is it now?",
       avatar: 'assets/image321.png',
       time: 'yesterday'
   ),
